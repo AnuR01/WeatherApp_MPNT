@@ -15,7 +15,7 @@ Steps to run the Weather Application:
 Reference: While working on this project, so I have used several sources like Google, youtube videos, and stackoverflow to solve my erros.
 I used youtube videos, google to solve and add speicific features that I wanted in the apllication from openWeather Api.
 
-WeatherApp demo:
+WeatherApp preview:
 
 ![WeatherApp](https://user-images.githubusercontent.com/89842270/232437749-fe276909-a5c3-40a3-ab6c-a8795eae2a88.jpg)
 
