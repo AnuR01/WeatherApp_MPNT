@@ -1,5 +1,5 @@
 # WeatherApp_MPNT
-# WeatherApp_MPNT
+
 I have created a Weather Application, which fetches the live weather data from openWeater Api.The application gives the
 temperature, humidity and wind speed of the location searched for.
 
